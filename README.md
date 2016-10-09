@@ -25,6 +25,6 @@ This plug in will take between 2 and 5 input colours and their corresponding out
 <h2>Image after quintic filter</h2>
 <img src="quinticFlower.jpg" />
 <h2>Todo</h2>
-Change UI from gimpfu standard to put <b>from</b> and <b>to</b> colours side by side. Add a plus button to ass new colour pairs instead of a slider. Allow the interpolation to be done over the HSV colour space. Allow interpolation between gradients or pallets.
+Change UI from gimpfu standard to put <b>from</b> and <b>to</b> colours side by side. Add a plus button to add new colour pairs instead of a slider. Allow the interpolation to be done over the HSV colour space. Allow interpolation between gradients or pallets.
 </body>
 </html>
